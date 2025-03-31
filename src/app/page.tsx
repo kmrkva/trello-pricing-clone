@@ -25,7 +25,7 @@ export default function PricingPage() {
         </div>
 
         <p className="mb-10 max-w-3xl text-center text-slate-600">
-          Trello Business Class is built for teams who get things done. For 30 days, your team can use all of Trello's Business Class features for free.
+          Trello Business Class is built for teams who get things done. For 30 days, your team can use all of Trello&apos;s Business Class features for free.
         </p>
 
         <div className="mb-8 grid w-full grid-cols-1 gap-6 md:grid-cols-2">
@@ -103,7 +103,7 @@ export default function PricingPage() {
           <div className="mt-4 text-center text-sm text-slate-600">
             After the trial ends, keep Business Class for only $9.99 per user per month when billed annually.{" "}
             <a href="#" className="text-blue-600 hover:underline">
-              You'll always have the option to downgrade to free.
+              You&apos;ll always have the option to downgrade to free.
             </a>
           </div>
         </div>
